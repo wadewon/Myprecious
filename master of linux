@@ -1,0 +1,11 @@
+1、怎样更改一个文件的权限设置？B
+A. attrib
+B. chmod
+C. change
+D. file
+
+2、在bash中，export命令的作用是：C
+A. 在子shell中运行命令
+B. 使在子shell中可以使用命令历史记录
+C. 为其它应用程序设置环境变量
+D. 提供NFS分区给网络中的其它系统使用
